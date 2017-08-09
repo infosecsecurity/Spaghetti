@@ -1,2 +1,2 @@
-# Spaghetti - Web Application Security Scanner
+## Spaghetti - Web Application Security Scanner
 
