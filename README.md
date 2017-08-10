@@ -8,6 +8,7 @@ Spaghetti is a web application security scanner tool. It is designed to find var
 ## Features
 - Fingerprints
   - Server
+  - Frameworks
   - Firewall
   - CMS
   - OS
