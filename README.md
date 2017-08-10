@@ -9,12 +9,14 @@ Spaghetti is a web application security scanner tool. It is designed to find var
 - Admin Panel
 - Apache Enumeration Users
 - Apache XSS
+- Apache ModStatus
 - Find Backdoors
 - Find Backup
 - Captcha
 - Find Common Directories
 - Find Common Files
 - Cookie Security
+- Multiple Index
 - Information Disclosure
   - Find Emails
   - Find Private IP
