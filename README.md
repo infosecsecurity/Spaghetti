@@ -1,7 +1,7 @@
 ## Spaghetti - Web Application Security Scanner
+![build](https://img.shields.io/badge/build-passing-green.svg) ![python](https://img.shields.io/badge/python-2.7-green.svg)
 
-![build](https://img.shields.io/travis/USER/REPO.svg) ![python](https://img.shields.io/badge/python-2.7-green.svg)
- ![logo](https://github.com/m4ll0k/Spaghetti/blob/master/screenshots/logo.png)
+![logo](https://github.com/m4ll0k/Spaghetti/blob/master/screenshots/logo.png)
 
 ## Description
 Spaghetti is a web application security scanner tool. It is designed to find various default and insecure files, configurations and misconfigurations. Spaghetti is built on python2.7 and can run on any platform which has a Python environment.
