@@ -1,5 +1,6 @@
-# Spaghetti - Web Application Security Scanner
+## Spaghetti - Web Application Security Scanner
 
+![build](https://img.shields.io/travis/USER/REPO.svg) ![python](https://img.shields.io/badge/python-2.7-green.svg)
  ![logo](https://github.com/m4ll0k/Spaghetti/blob/master/screenshots/logo.png)
 
 ## Description
