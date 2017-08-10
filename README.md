@@ -8,11 +8,11 @@ Spaghetti is a web application security scanner tool. It is designed to find var
 ## Features
 - Fingerprints
   - Server
-  - Frameworks
-  - Firewall
-  - CMS
-  - OS
-  - Languagge
+  - Frameworks (CakePHP,CherryPy,Django,...)
+  - Firewall (Cloudflare,AWS,Barracuda,...)
+  - CMS (Drupal,Joomla,Wordpress)
+  - OS (Linux,Unix,Windows,...)
+  - Language (PHP,Ruby,Python,ASP,...)
 
 - Discovery:
   - Admin Panel
