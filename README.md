@@ -40,3 +40,4 @@ $ python spaghetti.py -h
 ## Screenshots
 ![screen1](https://github.com/m4ll0k/Spaghetti/blob/master/screenshots/screenshot_1.png)
 ![screen2](https://github.com/m4ll0k/Spaghetti/blob/master/screenshots/screenshot_2.png)
+![screen3](https://github.com/m4ll0k/Spaghetti/blob/master/screenshots/screenshot_3.png)
